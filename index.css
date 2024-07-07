@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+.pics {
+    display: flex;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    text-align: right;
+}
